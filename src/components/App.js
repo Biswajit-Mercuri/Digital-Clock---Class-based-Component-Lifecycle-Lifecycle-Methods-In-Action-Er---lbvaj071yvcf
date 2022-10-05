@@ -13,8 +13,8 @@ const App = () => {
     <div id="main">
       <div className="date-time">{time}</div>
     </div>
-  )
-}
+  );
+};
 
 
 export default App;
